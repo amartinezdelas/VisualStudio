@@ -1,0 +1,10 @@
+C:\Users\perry\source\repos\uCalculator\uCalculator\bin\Debug\uCalculator.exe.config
+C:\Users\perry\source\repos\uCalculator\uCalculator\bin\Debug\uCalculator.exe
+C:\Users\perry\source\repos\uCalculator\uCalculator\bin\Debug\uCalculator.pdb
+C:\Users\perry\source\repos\uCalculator\uCalculator\obj\Debug\uCalculator.csprojAssemblyReference.cache
+C:\Users\perry\source\repos\uCalculator\uCalculator\obj\Debug\uCalculator.Properties.Resources.resources
+C:\Users\perry\source\repos\uCalculator\uCalculator\obj\Debug\uCalculator.csproj.GenerateResource.cache
+C:\Users\perry\source\repos\uCalculator\uCalculator\obj\Debug\uCalculator.csproj.CoreCompileInputs.cache
+C:\Users\perry\source\repos\uCalculator\uCalculator\obj\Debug\uCalculator.exe
+C:\Users\perry\source\repos\uCalculator\uCalculator\obj\Debug\uCalculator.pdb
+C:\Users\perry\source\repos\uCalculator\uCalculator\obj\Debug\uCalculator.uCalculator.resources
